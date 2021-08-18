@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+/Debug
+/targetConfigs
+lnk_msp430f5529.cmd
+/.launches
+/.settings
+/.ccsproject
+/.cproject
+/.project
